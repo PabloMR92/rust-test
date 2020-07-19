@@ -1,0 +1,9 @@
+  
+[package]
+name = "rust-test"
+version = "0.1.0"
+authors = ["Pablo Rodriguez <pablomr92@hotmail.com>"]
+edition = "2020"
+
+[dependencies]
+rocket = "0.4"
