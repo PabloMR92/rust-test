@@ -6,4 +6,4 @@ authors = ["Pablo Rodriguez <pablomr92@hotmail.com>"]
 edition = "2018"
 
 [dependencies]
-rocket = "0.4"
+rocket = "0.4.5"
